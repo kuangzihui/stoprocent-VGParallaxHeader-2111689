@@ -10,6 +10,8 @@
 	<string>Example</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>1DB24C92E82365413FE97C2F8D8F5DD7FF914BF4</key>
+		<string>https://github.com/kuangzihui/stoprocent-VGParallaxHeader-2111689.git</string>
 		<key>6CDDA1F2C0C999AE3A34F05CC807D486A4D03721</key>
 		<string>https://github.com/stoprocent/VGParallaxHeader.git</string>
 	</dict>
@@ -17,17 +19,27 @@
 	<string>Example/Example.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>6CDDA1F2C0C999AE3A34F05CC807D486A4D03721</key>
+		<key>1DB24C92E82365413FE97C2F8D8F5DD7FF914BF4</key>
 		<string>../..</string>
+		<key>6CDDA1F2C0C999AE3A34F05CC807D486A4D03721</key>
+		<string>../../../VGParallaxHeader</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/stoprocent/VGParallaxHeader.git</string>
+	<string>https://github.com/kuangzihui/stoprocent-VGParallaxHeader-2111689.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>6CDDA1F2C0C999AE3A34F05CC807D486A4D03721</string>
+	<string>1DB24C92E82365413FE97C2F8D8F5DD7FF914BF4</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1DB24C92E82365413FE97C2F8D8F5DD7FF914BF4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>stoprocent-VGParallaxHeader-2111689</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

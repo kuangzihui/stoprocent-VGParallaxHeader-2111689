@@ -38,6 +38,8 @@
 - (void)scrollViewDidScroll:(UIScrollView *)scrollView
 {
     [self.tableView shouldPositionParallaxHeader];
+    
+    NSLog(@"===%f",scrollView.contentOffset.y);
 
     // Log Parallax Progress
     //NSLog(@"Progress: %f", scrollView.parallaxHeader.progress);
